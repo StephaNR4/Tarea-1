@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+h2{
+    font-family:'Fredoka One', cursive;
+    text-align:center;
+    background-color:rgb(5, 109, 104);
+    color:rgb(255, 255, 255); 
+}
 h1
 {
 font-family:'Fredoka One', cursive;
